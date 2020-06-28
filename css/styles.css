@@ -1,0 +1,123 @@
+body{
+  color:#40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+p{
+  line-height: 2;
+}
+hr{
+  border: dotted gray 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+h1{
+  margin: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+h3{
+font-family: 'Montserrat', sans-serif;
+color: #11999E;
+}
+
+
+h2{
+  color: #66BFBF;
+  font-size: 2rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+.top-container{
+  background-color: #E4F9F5;
+  position: relative;
+  padding:100px;
+}
+.middle-container{
+  margin:100px 0;
+}
+.stck{
+  text-decoration: underline;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 350px;
+}
+.top-cloud{
+  position:absolute;
+  right:400px;
+  top: 50px;
+}
+.footer-link{
+  color: #11999E;
+  margin: 30px;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  font-size: 20px;
+}
+.footer-link:hover{
+  color: white;
+}
+.profile img{
+  border-radius: 50%;
+  margin-top: 10px;
+}
+.skill-row{
+  width:50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.java-img{
+  width:25%;
+  float: left;
+  margin-right: 30px;
+
+}
+.code-img{
+    width:25%;
+    float:right;
+    margin-left: 30px;
+}
+.android-img{
+    width:25%;
+    float: left;
+    margin-right: 30px;
+}
+.btn {
+  border: solid #66bfbf;;
+  background:#66BFBF;
+  text-decoration: none;
+  padding: 5px;
+  color: white;
+  border-radius: 8px;
+ }
+.btn:hover{
+  border: #11999E;
+  background:#11999E;
+  text-decoration: none;
+  padding: 5px;
+  color: white;
+  border-radius: 8px;
+}
+.bottom-container{
+  padding-top: 50px;
+  background-color: #66BFBF;
+  height: 150px;
+}
+.copyright-caption{
+  color: white;
+}
+.intro{
+  width: 30%;
+  margin:auto;
+}
+.contact-message{
+  width:40%;
+  margin: 10px auto;
+}
